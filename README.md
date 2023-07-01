@@ -88,7 +88,7 @@ There are the Prerequisite you required to contribute to this project
 
 ## Getting Started
 1. Clone the Project
-    -  `https://github.com/sunkusaarthak/Near-By.git`
+    -  `https://github.com/ganeshjagannadam/Near-By-Places.git`
 2. Add your API key in the local.properties file in the name API_KEY
     <p>
         <img src="https://user-images.githubusercontent.com/59611699/209823486-e7dc338a-db38-44fa-bc92-9f8de57c7963.png" width="500px"  />
